@@ -1,0 +1,3 @@
+{"name": "Apple", "islocked": true, "password": "apple"}
+{"name": "Banana", "islocked": false, "password": "banana"}
+{"name": "Cherry", "islocked": false, "password": "cherry"}
