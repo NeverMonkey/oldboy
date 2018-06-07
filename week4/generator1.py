@@ -16,7 +16,7 @@ def producer(name):
     c.__next__()
     c2.__next__()
     print("老子开始准备做包子啦!")
-    for i in range(8):
+    for i in range(10):
         time.sleep(1)
         print("做了2个包子!")
         c.send(i)
